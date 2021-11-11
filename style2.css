@@ -48,6 +48,7 @@ body{
 #product-levis{
     background-image: url(../html-css-boolando/img/preview-img/1.webp);
 }
+
 .after-discount{
     color: red;
 }
@@ -80,10 +81,51 @@ body{
     padding: 5px 10px 5px 10px;
 }
 
+article .sustainable:only-child{
+    position: absolute;
+    left: 67%;
+    }
+
 /* Hover card */
+.favourite:hover{
+    color: red;
+}  
+/* product-img */
+#product-levis{
+    background-image: url(../html-css-boolando/img/preview-img/1.webp);
+}
 #product-levis:hover{
     background-image: url(../html-css-boolando/img/hover-img/1b.webp);
 }
-.favourite:hover{
-    color: red;
+#product-rosestee{
+    background-image:url(../html-css-boolando/img/preview-img/2.webp);    
+}
+#product-rosestee:hover{
+   background-image:url(../html-css-boolando/img/hover-img/2b.webp);    
+}
+#product-comezuccherofilato{
+     background-image:url(../html-css-boolando/img/preview-img/3.webp);    
+}
+#product-comezuccherofilato:hover{
+    background-image:url(../html-css-boolando/img/hover-img/3b.webp);
+}
+#product-levis-tshirt{
+     background-image:url(../html-css-boolando/img/preview-img/4.webp);    
+}
+#product-levis-tshirt:hover{
+     background-image:url(../html-css-boolando/img/hover-img/4b.webp);
+}
+#product-maya-deluxe{
+    background-image:url(../html-css-boolando/img/preview-img/5.webp);    
+}
+
+#product-maya-deluxe:hover{
+    background-image:url(../html-css-boolando/img/hover-img/5b.webp);
+}
+#product-esprit{
+     background-image:url(../html-css-boolando/img/preview-img/6.webp);    
+ }
+
+ #product-esprit:hover{
+    background-image:url(../html-css-boolando/img/hover-img/6b.webp);
 }
