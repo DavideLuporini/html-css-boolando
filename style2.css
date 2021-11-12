@@ -57,10 +57,11 @@ body{
 }
 
 .pill-discount{
-    background-color: red;
+    background-color: #eb0037;
 }
 .pill-sustainable{
-    background-color: green;
+    background-color: #00875a
+    ;
     left: 40px;
 }
 
@@ -81,9 +82,9 @@ body{
     padding: 5px 10px 5px 10px;
 }
 
-article .sustainable:only-child{
+#product-esprit > .pill-sustainable{
     position: absolute;
-    left: 67%;
+    left: 0%;
     }
 
 /* Hover card */
