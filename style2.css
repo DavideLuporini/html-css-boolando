@@ -19,7 +19,7 @@ body{
 .card{
     display: inline-block;
     width: calc(97% / 3 - 5px);
-    margin: 5px;
+    padding: 5px;
 }
 .product-img{
     height: 500px;
